@@ -1,0 +1,35 @@
+div.activity-box{
+  display: inline;
+  border: 2px solid lightgrey;
+  height: 6.1em;
+  width: 16%;
+  background-color: white;
+  /* padding: 1em; */
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 0.5em;
+}
+div.icon-wrapper{
+  display: inline;
+}
+h2,h3{
+  margin: 0;
+}
+h2.num{
+  color: blue;
+  font-size: 20pt;
+   background: -webkit-linear-gradient( blue, lightblue);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+h3{
+  font-size: 10pt;
+}
+
+div.num-headline{
+  float: right;
+}
+div.activity-contents{
+  margin-top: 1.5em;
+  margin-right: 1em;
+}

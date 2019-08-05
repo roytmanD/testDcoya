@@ -1,0 +1,20 @@
+div.ld-box{
+  width: 15%;
+  background-image: linear-gradient(to right, blue, lightblue);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+p{
+  margin-left: 1em;
+  font-style: oblique;
+  font-size: 18pt;
+}
+img{
+  margin-block-start: 1.5em;
+  margin-block-end: 1.5em;
+  margin-left: 3.5em;
+  width: 35px;
+  height: 35px;
+}
